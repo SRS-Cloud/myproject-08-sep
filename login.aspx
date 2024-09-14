@@ -1,4 +1,4 @@
 username:
 password:
 
-Login           Forgot password
+Login       Forgot password
